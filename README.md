@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stallah
 - 👀 I’m interested in gaining experience in the Computer Science workfield.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.. stallah@gmu.edu
 
 <!---
